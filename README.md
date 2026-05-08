@@ -22,9 +22,9 @@ This project explores the domain of secure Multi-Party Computation (MPC). It ana
 .
 ├── CS496_Papers/                        # Directory containing research papers
 ├── CS496_Summaries/                     # Directory containing paper summaries
-├── CS496_PRAC_Based_BFS_Report.pdf      # Report of the proposed OBFS algorithm
-├── CS496_Final_Report.pdf               # Complete project report
 ├── CS496_Final_Presentation.pdf         # Project presentation slides
+├── CS496_Final_Report.pdf               # Complete project report
+├── CS496_PRAC_Based_BFS_Report.pdf      # Report of the proposed OBFS algorithm
 └── README.md
 ```
 
