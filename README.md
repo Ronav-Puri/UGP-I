@@ -1,6 +1,6 @@
 # UGP-I
 
-A semester-long Undergraduate Project completed during the fifth semester at IIT Kanpur under the supervision of Prof. Adithya Vadapalli.
+A semester-long Undergraduate Project completed during the sixth semester at IIT Kanpur under the supervision of Prof. Adithya Vadapalli.
 
 ## Project Details
 
