@@ -12,7 +12,7 @@ A semester-long Undergraduate Project completed during the fifth semester at IIT
 
 ## Overview
 
-This project explores the domain of secure Multi-Party Computation (MPC). It analyses five different papers, three of which provide different approaches to the problem of secure multi-party sorting. The fourth paper introduces PRAC, a 3-party secure MPC framework desgined to support random-access data structure algorithms with efficient communication costs in terms of both rounds and bandwidth. The last paper deals with a secure graph computation framework. At the end, we intend to extend the PRAC framework to graph algorithms, and we do so by formulating and proposing a novel Oblivious Breadth-First Search (OBFS) algoritrhm.
+This project explores the domain of secure Multi-Party Computation (MPC). It analyses five different papers, three of which provide different approaches to the problem of secure multi-party sorting. The fourth paper introduces PRAC, a 3-party secure MPC framework desgined to support random-access data structure algorithms with efficient communication costs in terms of both rounds and bandwidth. The last paper deals with a secure graph computation framework. At the end, we intend to extend the PRAC framework to graph algorithms, and we do so by formulating and proposing a novel Oblivious Breadth-First Search (OBFS) algorithm.
 
 ---
 
